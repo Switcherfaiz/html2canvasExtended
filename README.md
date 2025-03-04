@@ -6,9 +6,8 @@ This extension, modified by Switcherfaiz, enhances the original library with a c
 
 ## Installation
 
-1. Download the original html2canvas library from [github.com/niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
-2. Copy the html2canvas files to your project folder
-3. Add the custom initializer.js file to your html2canvas folder
+1. Download the original html2canvas library from this repo here as a zipped folder or from [github.com/niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+2. Copy the html2canvas folder to your project folder
 
 ## Including the Scripts
 
